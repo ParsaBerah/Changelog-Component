@@ -1,2 +1,3 @@
 # Changelog-Component
-ُimple component for a website that displays a changelog
+Simple component for a website that displays a changelog
+https://roadmap.sh/projects/changelog-component
